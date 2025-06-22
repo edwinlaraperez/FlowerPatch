@@ -1,0 +1,5 @@
+Para la fabricación del sensor en JLCPCB, esta carpeta incluye los archivos esenciales. Deberás entregar a la empresa:
+Archivo de Diseño: Contiene el esquema y layout del circuito.
+Lista de Materiales (BOM): Detalla todos los componentes necesarios.
+En caso de indisponibilidad de algún elemento durante el proceso de fabricación, JLCPCB ofrece dos opciones: esperar la reposición del material faltante o solicitar un cambio por un componente equivalente disponible en su catálogo.
+
